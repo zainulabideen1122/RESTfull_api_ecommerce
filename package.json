@@ -1,0 +1,16 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "RESTfull-api's",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Zain ul Abideen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  }
+}
